@@ -1,6 +1,4 @@
-# Datenschutzerklärung
-
-**ALPIN -Sprung- Tirol Event Guide**
+# Datenschutzerklärung – ALPIN -Sprung- Tirol Event Guide
 
 ## 1. Verantwortlicher
 
@@ -18,7 +16,7 @@ Diese Datenschutzerklärung informiert darüber, welche Daten bei der Nutzung de
 
 ## 3. Registrierung und Benutzerkonto
 
-Für die Nutzung der App ist ein Benutzerkonto erforderlich. Dabei verarbeiten wir:
+Für die Nutzung der App ist ein Benutzerkonto erforderlich. Die Nutzung ist ab 16 Jahren erlaubt. Dabei verarbeiten wir:
 
 - E-Mail-Adresse und Passwort (das Passwort wird von Firebase Authentication gesichert gespeichert, wir haben keinen Zugriff darauf)
 - Benutzer-ID (eine zufällige technische Kennung)
@@ -51,7 +49,6 @@ Die App nutzt Dienste von Google Firebase. Dabei werden Daten auf Servern von Go
 - Firebase Authentication (Anmeldung)
 - Cloud Firestore (Datenbank für Events, Bewertungen, Favoriten und Meldungen)
 - Cloud Storage for Firebase (Event-Bilder)
-- Firebase Cloud Messaging (Push-Benachrichtigungen)
 - Firebase App Check (Schutz vor Missbrauch)
 
 Firebase App Check prüft, ob Anfragen von der echten App auf einem unveränderten Gerät stammen. Dafür werden Integritätsinformationen des Geräts und der App verarbeitet (über Google Play Integrity). Das dient der Sicherheit der App (Art. 6 Abs. 1 lit. f DSGVO).
@@ -62,7 +59,7 @@ Weitere Informationen: https://policies.google.com/privacy
 
 ## 7. Push-Benachrichtigungen
 
-Für Push-Benachrichtigungen wird ein technisches Push-Token gespeichert. Mit Push-Nachrichten informieren wir über neue Events und wichtige Neuigkeiten. Auf neueren Android-Versionen fragt die App Sie nach der Erlaubnis. Sie können Benachrichtigungen jederzeit in den Geräteeinstellungen deaktivieren. Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+Die App versendet derzeit keine Push-Benachrichtigungen und speichert kein Push-Token. Sollte diese Funktion später hinzukommen, passen wir diese Datenschutzerklärung vorher an und fragen Sie um Ihre Erlaubnis.
 
 ## 8. Werbung (Google AdMob)
 
@@ -85,7 +82,6 @@ Beim Zugriff auf die genannten Dienste verarbeitet Google technisch notwendige D
 - Konto und Favoriten: bis zur Löschung des Kontos
 - Bewertungen: bis zur Löschung des Events, nach Löschung des Kontos bleiben sie ohne Kontobezug erhalten
 - Abgelaufene Events: 30 Tage im Archiv, danach Löschung samt Bild und Bewertungen
-- Push-Token: bis zur Löschung oder Erneuerung des Tokens
 - Meldungen: solange dies zur Dokumentation der Moderation erforderlich ist
 
 Gesetzliche Aufbewahrungspflichten bleiben unberührt.
@@ -100,7 +96,7 @@ Sie haben außerdem das Recht, sich bei der Datenschutzbehörde zu beschweren (�
 
 ## 13. Löschung des Benutzerkontos
 
-Sie können Ihr Konto jederzeit in der App löschen: Profil → „Konto löschen“. Dabei werden Ihr Konto, Ihre Favoriten und das Push-Token Ihres Geräts gelöscht. Von Ihnen erstellte Events werden sofort ausgeblendet und spätestens innerhalb von 30 Tagen endgültig gelöscht, einschließlich Bild und der Bewertungen dazu. Bewertungen, die Sie zu Events anderer abgegeben haben, bleiben ohne Bezug zu Ihrem Konto erhalten (sie wurden ohnehin nur als „Nutzer“ angezeigt). Meldungen zu Inhalten bleiben zur Dokumentation der Moderation gespeichert. Gesetzliche Aufbewahrungspflichten bleiben unberührt.
+Sie können Ihr Konto jederzeit in der App löschen: Profil → „Konto löschen“. Dabei werden Ihr Konto und Ihre Favoriten gelöscht. Von Ihnen erstellte Events werden sofort ausgeblendet und spätestens innerhalb von 30 Tagen endgültig gelöscht, einschließlich Bild und der Bewertungen dazu. Bewertungen, die Sie zu Events anderer abgegeben haben, bleiben ohne Bezug zu Ihrem Konto erhalten (sie wurden ohnehin nur als „Nutzer“ angezeigt). Meldungen zu Inhalten bleiben zur Dokumentation der Moderation gespeichert. Gesetzliche Aufbewahrungspflichten bleiben unberührt.
 
 Alternativ können Sie die Löschung per E-Mail an alpinsprung@icloud.com beantragen.
 
