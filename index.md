@@ -28,7 +28,7 @@ Zweck ist die Bereitstellung des Kontos und der App-Funktionen. Rechtsgrundlage 
 
 Wenn Sie Events erstellen, Bewertungen abgeben oder Favoriten speichern, verarbeiten wir diese Inhalte:
 
-- Events (Titel, Beschreibung, Ort, Zeiten, Preise, Links, Bild): Nach der Freigabe sind sie für alle Nutzer sichtbar. Die Zuordnung zu Ihrem Konto erfolgt über die interne Benutzer-ID und ist für andere nicht sichtbar.
+- Events (Titel, Beschreibung, Veranstalter, Ort, Zeiten, Preise, Ermäßigungen, Links, Bild): Nach der Freigabe sind sie für alle Nutzer sichtbar. Die Zuordnung zu Ihrem Konto erfolgt über die interne Benutzer-ID und ist für andere nicht sichtbar.
 - Bewertungen und Kommentare: Sie werden für andere Nutzer unter der Bezeichnung „Nutzer“ angezeigt, ohne Name und E-Mail-Adresse. Intern wird die Benutzer-ID gespeichert.
 - Favoriten: Sie sind nur für Sie selbst sichtbar.
 
@@ -69,9 +69,9 @@ Die Werbe-ID können Sie in den Android-Einstellungen (Google → Anzeigen) zur�
 
 Weitere Informationen: https://policies.google.com/privacy
 
-## 9. Standort und Karten
+## 9. Standort, Karten und Kalender
 
-Die App verarbeitet keine GPS-Standortdaten Ihres Geräts. Wenn Sie bei einem Event die Karte öffnen, wird die Adresse des Events an Ihre Karten-App (z. B. Google Maps) übergeben. Für deren Datenverarbeitung gelten die Bestimmungen des jeweiligen Anbieters.
+Die App verarbeitet keine GPS-Standortdaten Ihres Geräts. Wenn Sie bei einem Event die Karte öffnen, wird die Adresse des Events an Ihre Karten-App (z. B. Google Maps) übergeben. Wenn Sie „Zum Kalender hinzufügen“ antippen, werden Titel, Zeit, Ort und Beschreibung des Events an Google Kalender übergeben (in der Kalender-App oder im Browser); der Termin wird erst gespeichert, wenn Sie ihn dort bestätigen. Für die Datenverarbeitung dieser Dienste gelten die Bestimmungen des jeweiligen Anbieters.
 
 ## 10. Technische Daten
 
@@ -108,4 +108,4 @@ Wir können diese Datenschutzerklärung bei rechtlichen Änderungen oder neuen F
 
 Bei Fragen zum Datenschutz: alpinsprung@icloud.com
 
-Stand: Oktober 2026
+Stand: November 2026
