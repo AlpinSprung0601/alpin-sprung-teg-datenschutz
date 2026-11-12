@@ -28,7 +28,7 @@ Zweck ist die Bereitstellung des Kontos und der App-Funktionen. Rechtsgrundlage 
 
 Wenn Sie Events erstellen, Bewertungen abgeben oder Favoriten speichern, verarbeiten wir diese Inhalte:
 
-- Events (Titel, Beschreibung, Veranstalter, Ort, Zeiten, Preise, Ermäßigungen, Links, Bild): Nach der Freigabe sind sie für alle Nutzer sichtbar. Die Zuordnung zu Ihrem Konto erfolgt über die interne Benutzer-ID und ist für andere nicht sichtbar.
+- Events (Titel, Beschreibung, Veranstalter, Ort, Region, Zeiten, Preise, Ermäßigungen, Links, Bild): Nach der Freigabe sind sie für alle Nutzer sichtbar. Die Zuordnung zu Ihrem Konto erfolgt über die interne Benutzer-ID und ist für andere nicht sichtbar.
 - Bewertungen und Kommentare: Sie werden für andere Nutzer unter der Bezeichnung „Nutzer“ angezeigt, ohne Name und E-Mail-Adresse. Intern wird die Benutzer-ID gespeichert.
 - Favoriten: Sie sind nur für Sie selbst sichtbar.
 
@@ -38,7 +38,11 @@ Bitte veröffentlichen Sie keine personenbezogenen Daten Dritter ohne deren Zust
 
 Neue Events werden vor der Veröffentlichung von uns geprüft. Beim Absenden einer Bewertung prüft die App den Text automatisch auf Schimpfwörter, dabei werden keine Daten gespeichert.
 
-Nutzer können Bewertungen melden. Dabei speichern wir Ihre Benutzer-ID, den gewählten Grund, den Text der gemeldeten Bewertung und die Kennung des Events. Meldungen sind nur für Administratoren sichtbar. Wir können gemeldete Inhalte bearbeiten oder löschen (bearbeitete Bewertungen werden als „Vom Team bearbeitet“ gekennzeichnet).
+Nutzer können Bewertungen melden. Dabei speichern wir Ihre Benutzer-ID, den gewählten Grund, den Text der gemeldeten Bewertung und die Kennung des Events.
+
+Nutzer können außerdem Events melden (z. B. falsche Angaben, abgesagt, unangemessen). Dabei speichern wir Ihre Benutzer-ID, den gewählten Grund, Ihren freiwilligen Hinweis (höchstens 300 Zeichen), den Titel und die Kennung des Events sowie die interne Benutzer-ID der Person, die das Event erstellt hat. Wer ein Event erstellt hat, erfährt nicht, wer es gemeldet hat.
+
+Meldungen sind nur für Administratoren sichtbar. Wir können gemeldete Inhalte bearbeiten oder löschen (bearbeitete Bewertungen werden als „Vom Team bearbeitet“ gekennzeichnet).
 
 Rechtsgrundlage ist unser berechtigtes Interesse am Schutz vor rechtswidrigen Inhalten und an der Sicherheit der App (Art. 6 Abs. 1 lit. f DSGVO).
 
@@ -71,7 +75,7 @@ Weitere Informationen: https://policies.google.com/privacy
 
 ## 9. Standort, Karten und Kalender
 
-Die App verarbeitet keine GPS-Standortdaten Ihres Geräts. Wenn Sie bei einem Event die Karte öffnen, wird die Adresse des Events an Ihre Karten-App (z. B. Google Maps) übergeben. Wenn Sie „Zum Kalender hinzufügen“ antippen, werden Titel, Zeit, Ort und Beschreibung des Events an Google Kalender übergeben (in der Kalender-App oder im Browser); der Termin wird erst gespeichert, wenn Sie ihn dort bestätigen. Für die Datenverarbeitung dieser Dienste gelten die Bestimmungen des jeweiligen Anbieters.
+Die App verarbeitet keine GPS-Standortdaten Ihres Geräts. Wenn Sie bei einem Event die Karte öffnen oder auf die Adresse tippen, wird die Adresse des Events an die von Ihnen gewählte Karten-App (z. B. Google Maps) übergeben. Für die Navigation ermittelt die Karten-App Ihren Standort selbst, die App erhält ihn nicht. Wenn Sie „Zum Kalender hinzufügen“ antippen, werden Titel, Zeit, Ort und Beschreibung des Events an Google Kalender übergeben (in der Kalender-App oder im Browser); der Termin wird erst gespeichert, wenn Sie ihn dort bestätigen. Für die Datenverarbeitung dieser Dienste gelten die Bestimmungen des jeweiligen Anbieters.
 
 ## 10. Technische Daten
 
